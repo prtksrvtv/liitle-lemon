@@ -9,7 +9,7 @@ const seededRandom = function (seed) {
 
 /**
  * 
- * @param {shahandfahad} date 
+ * @param {prtksrvtv} date 
  * @returns Modifying fetchAPI function to return an object with three arrays of strings
  *         representing the available times for morning, afternoon and evening
  */
